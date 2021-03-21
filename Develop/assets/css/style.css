@@ -86,19 +86,19 @@ header p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* increase the benefit selector margin-bottom benefit from 32px to 72px to match the mockup size */
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 72px;
     color: #ffffff;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 72px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 72px;
     color: #ffffff;
 }
 
@@ -116,7 +116,6 @@ header p {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -188,7 +187,7 @@ header p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* mock up does not require footer to display, will comment out footer 
 .footer {
     padding: 30px;
     clear: both;
@@ -198,4 +197,4 @@ header p {
 
 .footer h2 {
     font-size: 20px;
-}
+} */
