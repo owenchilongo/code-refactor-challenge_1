@@ -1,6 +1,6 @@
 # Code Refactor Challenge
 ## Purpose 
-To ensure that the UI is accessibile to people with disabilities. Embeded in this UI is assistive technologies which include html element attributes such as sections and attributes respectively.
+To ensure that the UI is accessibile to people with disabilities. Embeded in this UI are assistive technologies.
 
 ## Built With
 * HTML
